@@ -8,8 +8,8 @@ This repository contains my submission for **Task 6: Sales Trend Analysis Using 
 
 | File / Folder         | Description                                              |
 |-----------------------|----------------------------------------------------------|
-| `Sales query`         | Contain entire SQL scripts used for analysis and insights|
-| `output.pdf`          | Captured outputs from SQL queries                        |
+| `main(1).sql`         | Contain entire SQL scripts used for analysis and insights|
+| `Output query.pdf`    | Captured outputs from SQL queries                        |
 | `README.md`           | Project documentation (this file)                        |
 
 ---
@@ -81,7 +81,7 @@ Month   |   Product ID | Revenue
 
 ## 📸 Screenshots
 
-All output screenshots are included in the `Output.psf` folder for reference and clarity.
+All output screenshots are included in the `Output query.pdf` folder for reference and clarity.
 
 ---
 
@@ -103,6 +103,12 @@ This task demonstrates how even a small dataset can deliver valuable insights wh
 > ✅ Built with clarity, speed, and impact in mind.
 
 ---
+## 📞 Let's connect
+
+- 📧 Email ID : sirishadsirishad6@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/sirisha-d-064b69278/
+
+--
 
 📬 *Thank you for reviewing! Feel free to explore the code and screenshots for deeper insight.*
 
