@@ -37,37 +37,23 @@ Sample records span from January to May 2024, with varying products and sales va
 
 ### 1️⃣ Monthly Revenue & Order Volume
 
-Analyzed total sales and distinct orders grouped by month:
-
-Year | Month | Total Revenue | Order Volume
-2024 | 01  |   350.00           |    2
-2024 | 02  |   300.00           |    2
-2024 | 03  |   470.00           |    2
-2024 | 04  |   400.00           |    2
-2024 | 05  |   900.00           |    2   
-
+Analyzed total sales and distinct orders grouped by month:  
 
 ### 2️⃣ Top 3 Revenue Months
 
 Captured the highest revenue months using `ORDER BY` and `LIMIT`.
 
-Month   | Total Revenue
-2024-05 | 900.00
-2024-03 | 470.00
-2024-04 | 400.00
-
-
 ### 3️⃣ Top-Selling Product per Month
 
 Ranked products monthly using a window function to find the top seller:
 
-Month   |   Product ID | Revenue
-2024-01 |      102     | 200.00
-2024-02 |      104     | 180.00
-2024-03 |      105     | 250.00
-2024-04 |      107     | 300.00
-2024-05 |      110     | 500.00
 
+## 🔑 Key Insights
+
+- Revenue and order volumes can vary significantly month to month — tracking these metrics is vital for forecasting.
+- Identifying the top-performing months helps in recognizing seasonality or promotional impact.
+- Analyzing top-selling products by month can support inventory planning and marketing strategy.
+- Simple SQL queries, when structured correctly, are powerful tools for uncovering actionable business intelligence.
 
 ---
 
